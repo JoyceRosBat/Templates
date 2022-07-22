@@ -96,7 +96,7 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>___VARIABLE_viperModuleName:identifier___Interactor + ___VARIABLE_viperModuleName:identifier___InteractorProtocol</string>
+			<string>___VARIABLE_viperModuleName:identifier___Interactor</string>
 			<key>Description</key>
 			<string>The Interactor name.</string>
 			<key>Identifier</key>
@@ -110,7 +110,7 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>___VARIABLE_viperModuleName:identifier___Repository + ___VARIABLE_viperModuleName:identifier___RepositoryProtocol</string>
+			<string>___VARIABLE_viperModuleName:identifier___Repository</string>
 			<key>Description</key>
 			<string>The Repository name.</string>
 			<key>Identifier</key>

@@ -14,7 +14,7 @@ class ___VARIABLE_viperModuleName___Presenter {
     // MARK: - Properties
     
     private var router: ___VARIABLE_viperModuleName___Router
-    private var interactor: ___VARIABLE_viperModuleName___Interactor
+    private var interactor: ___VARIABLE_viperModuleName___InteractorProtocol
     
     // MARK: - Initialization
     
