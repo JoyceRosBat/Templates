@@ -7,7 +7,7 @@
 //  Template by Joyce Rosario Batista
 //
 
-import Foundation
+import UIKit
 
 class ___VARIABLE_viperModuleName___ViewController: BaseViewController {
 
@@ -19,7 +19,7 @@ class ___VARIABLE_viperModuleName___ViewController: BaseViewController {
     
 	// MARK: - Initializers
 	
-	public init(_ presenter: ___VARIABLE_viperModuleName___Presenter) {
+    init(_ presenter: ___VARIABLE_viperModuleName___Presenter) {
         self.presenter = presenter
         super.init(nibName: nil, bundle: Bundle.main)
 	}
@@ -30,7 +30,7 @@ class ___VARIABLE_viperModuleName___ViewController: BaseViewController {
 
     // MARK: - Life cycle
     
-	public override func viewDidLoad() {
+    override func viewDidLoad() {
 		super.viewDidLoad()
 	}
     
